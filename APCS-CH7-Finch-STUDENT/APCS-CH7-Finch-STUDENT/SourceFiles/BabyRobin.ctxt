@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=BabyRobin
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ BabyRobin\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=BabyRobin()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ BabyRobin\r\n
+comment2.params=
+comment2.target=void\ cry()
+comment3.params=
+comment3.target=void\ fly()
+numComments=4
